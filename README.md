@@ -6,4 +6,4 @@ Currently the repo is anonymous to ensure double blind review.
 
 Please note that the out-of-distribution dataset we created using salt-and-pepper noise is not publicity available due to copy right issues. The same is true for other images used for the gui of the experiment. However, feel free to contact me and I will be happy to share the images with you privately. 
 
-Further note, that we also perform other experiments (eidolon & cue-conflict), which are not discribed in the paper mentioned above. However, each participants only took part in one of these experiments.
+Further note, that we also performed other experiments (eidolon & cue-conflict), which are not discribed in the paper mentioned above. However, each participants only took part in one of these experiments.
